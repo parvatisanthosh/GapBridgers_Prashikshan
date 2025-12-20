@@ -168,8 +168,8 @@ Prashikshan addresses these challenges through an inclusive, accessible platform
 
 This project is organized into separate repositories for frontend and backend:
 
-- **Frontend:** [prashikshan-frontend](https://github.com/parvatisanthosh/prashikshan-backend)
-- **Backend:** [prashikshan-backend](https://github.com/parvatisanthosh/prashikshan-frontend-)
+- **Frontend:** [prashikshan-backend](https://github.com/parvatisanthosh/prashikshan-backend)
+- **Backend:** [prashikshan-frontend](https://github.com/parvatisanthosh/prashikshan-frontend-)
 
 ---
 
